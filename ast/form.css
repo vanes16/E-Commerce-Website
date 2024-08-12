@@ -1,0 +1,42 @@
+
+.login-form-grids{
+	width: 45%;
+    padding: 3em;
+	background:#F7F7F9;
+	margin:3em auto 0;
+}
+.confirm-text{
+	font-size:26px;
+	font-weight:bold;
+	margin-bottom:5px;
+}
+.confirm-submit{
+    width: 100%;
+    background: #3399cc;
+    color: #fff;
+	border:none;
+    padding: 0.8em 0;
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.confirm-submit :hover{
+	background:#3399cc;	
+}
+.cancel-form{
+	margin:2em 0 0;
+	text-align:center;
+}
+.cancel-form a{
+	padding: 7px 45px;
+    background: #9F9F9F;
+	color:#fff;
+	font-size:1em;
+	text-decoration:none;
+}
+.cancel-form a:hover{
+	background:#3399cc;
+}
+.form-control{
+	padding:8px;
+}
